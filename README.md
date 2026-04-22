@@ -1,5 +1,5 @@
 <!-- Banner topo -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=180&section=header&text=Davi%20Grah%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0,100:008000&height=180&section=header&text=Davi%20Grah%20&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">Olá 👋, eu sou Davi Grah</h1>
 <h3 align="center">Desenvolvedor apaixonado por tecnologia 🚀</h3>
@@ -77,4 +77,4 @@
 
 
 <!-- Rodapé animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:008000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0,100:008000&height=120&section=footer"/>
