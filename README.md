@@ -32,9 +32,11 @@
 
 ### 🚀 Projetos em destaque
 
-- 🕹️ [**Cosmic Battle**](https://github.com/DaviGrah2/jogo-style-space-invaders) — Jogo Estilo Space invaders
-- 🎶 [**AppMusic**](https://github.com/DaviGrah2/AppMusic) — App de Streaming de musicas
-- 🌐 [**AppTicketCantina**](https://github.com/DaviGrah2/AppTicketCantina) — Desenvolvido React Native, App de cantina de escola com banco de dados
+- 🕹️ [**Cosmic Battle**](https://github.com/DaviGrah2/jogo-style-space-invaders) — Jogo Estilo Space invaders.
+- 🎶 [**AppMusic**](https://github.com/DaviGrah2/AppMusic) — App de Streaming de musicas.
+- 🌐 [**AppTicketCantina**](https://github.com/DaviGrah2/AppTicketCantina) — Desenvolvido React Native, App de cantina de escola com banco de dados.
+- ⚙️ [**AkameGaKillAPI**](https://github.com/DaviGrah2/Akame-ga-kill-API.git) - Teste de criação de APIS.
+- 🧑‍💻 [**ConsumoDeAPI**](https://github.com/DaviGrah2/Consumo-de-API.git) - Consumo de API com personaização.
 
 ---
 
