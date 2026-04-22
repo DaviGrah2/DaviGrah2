@@ -3,6 +3,9 @@
 
 <h1 align="center">Olá 👋, eu sou Davi Grah</h1>
 <h3 align="center">Desenvolvedor apaixonado por tecnologia 🚀</h3>
+<p align="center">
+  <img src="https://i.imgur.com/jskvOW0.gif" width="500">
+</p>
 
 ---
 
