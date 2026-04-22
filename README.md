@@ -35,6 +35,8 @@
 
 ### 🚀 Projetos em destaque
 
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+
 - 🕹️ [**Cosmic Battle**](https://github.com/DaviGrah2/jogo-style-space-invaders) — Jogo Estilo Space invaders.
 - 🎶 [**AppMusic**](https://github.com/DaviGrah2/AppMusic) — App de Streaming de musicas.
 - 🌐 [**AppTicketCantina**](https://github.com/DaviGrah2/AppTicketCantina) — Desenvolvido React Native, App de cantina de escola com banco de dados.
