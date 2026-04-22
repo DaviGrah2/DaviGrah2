@@ -35,7 +35,6 @@
 
 ### 🚀 Projetos em destaque
 
-<img width="100%" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
 - 🕹️ [**Cosmic Battle**](https://github.com/DaviGrah2/jogo-style-space-invaders) — Jogo Estilo Space invaders.
 - 🎶 [**AppMusic**](https://github.com/DaviGrah2/AppMusic) — App de Streaming de musicas.
