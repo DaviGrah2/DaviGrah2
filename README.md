@@ -4,6 +4,10 @@
 <h1 align="center">👋 Davi Grah</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8e2de2&size=24&center=true&vCenter=true&width=600&lines=React+Native+Developer;Node.js+Backend;JavaScript+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
   <b>💻 Desenvolvedor focado em aplicações modernas</b><br>
   <i>Transformando ideias em produtos reais com código</i>
 </p>
