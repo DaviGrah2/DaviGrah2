@@ -124,7 +124,6 @@ Demonstra integração entre frontend e serviços externos.
 <!-- ==================== ROADMAP ==================== -->
 ## 📈 Evolução & Objetivos
 
-```txt
 ✔ JavaScript básico
 ✔ HTML e CSS
 ✔ Consumo de APIs
@@ -143,4 +142,4 @@ Demonstra integração entre frontend e serviços externos.
 <!-- ==================== CONTATO ==================== -->
 🌐 Contato
 <p align="center"> <a href="mailto:davigrah2010@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/DaviGrah2"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.instagram.com/in/grah_hz-2a617a386/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
-<!-- ==================== FOOTER ==================== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:8e2de2,100:4a00e0&height=120&section=footer"/> ```
+<!-- ==================== FOOTER ==================== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:8e2de2,100:4a00e0&height=120&section=footer"/> 
