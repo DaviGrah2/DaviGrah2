@@ -19,7 +19,11 @@
 <!-- ==================== SOBRE ==================== -->
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor apaixonado por tecnologia, focado na criação de aplicações modernas e funcionais.
+Desenvolvedor de software com foco em desenvolvimento mobile e backend, atuando na criação de aplicações modernas, escaláveis e orientadas à experiência do usuário.
+
+Experiência com React Native, Node.js e JavaScript, incluindo integração com APIs, gerenciamento de dados e estruturação de aplicações completas.
+
+Comprometido com boas práticas de desenvolvimento, melhoria contínua e construção de soluções que gerem impacto real. Em constante evolução para atuar como desenvolvedor Full Stack.
 
 - 🚀 Experiência com **React Native**, **Node.js** e **JavaScript**
 - 📱 Foco em desenvolvimento **mobile**
@@ -60,7 +64,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado na criação de aplicaç�
 ### 🕹️ Cosmic Battle
 🔗 https://github.com/DaviGrah2/jogo-style-space-invaders  
 
-💥 Jogo inspirado em Space Invaders  
+💥 Jogo 2D inspirado em Space Invaders, desenvolvido com foco em lógica de programação, detecção de colisão e movimentação dinâmica de elementos.
+O projeto demonstra aplicação prática de conceitos fundamentais de desenvolvimento de jogos e organização de lógica interativa.
+
 - Sistema de colisão  
 - Movimentação dinâmica  
 - Lógica de gameplay estruturada  
@@ -70,7 +76,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado na criação de aplicaç�
 ### 🎶 AppMusic
 🔗 https://github.com/DaviGrah2/AppMusic  
 
-🎧 Aplicativo de streaming de músicas  
+🎧 Aplicativo de streaming de músicas com foco em organização de interface e experiência do usuário.
+O projeto explora navegação, estruturação de componentes e gerenciamento de dados em aplicações mobile.
+
 - Interface organizada  
 - Estrutura de navegação  
 - Experiência focada no usuário  
@@ -80,7 +88,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado na criação de aplicaç�
 ### 🌐 AppTicketCantina
 🔗 https://github.com/DaviGrah2/AppTicketCantina  
 
-📱 App completo em React Native  
+📱 Aplicação mobile desenvolvida com React Native, integrada a banco de dados para gerenciamento de pedidos em ambiente escolar.
+O projeto simula um sistema real, envolvendo fluxo de dados, persistência e interação com usuário.
+
 - Integração com banco de dados  
 - Sistema de pedidos  
 - Aplicação real para ambiente escolar  
@@ -90,7 +100,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado na criação de aplicaç�
 ### ⚙️ AkameGaKillAPI
 🔗 https://github.com/DaviGrah2/Akame-ga-kill-API.git  
 
-🔌 API para testes e aprendizado  
+🔌 API desenvolvida para fins de aprendizado, com foco na estruturação de rotas, organização backend e manipulação de dados.
+Serve como base para construção de aplicações integradas.
+
 - Estrutura backend  
 - Rotas organizadas  
 - Base para aplicações futuras  
@@ -100,7 +112,9 @@ Sou um desenvolvedor apaixonado por tecnologia, focado na criação de aplicaç�
 ### 🧑‍💻 ConsumoDeAPI
 🔗 https://github.com/DaviGrah2/Consumo-de-API.git  
 
-🌍 Consumo de API com personalização  
+🌍 Aplicação voltada ao consumo de APIs externas, com manipulação e exibição personalizada de dados.
+Demonstra integração entre frontend e serviços externos.
+
 - Requisições HTTP  
 - Manipulação de dados  
 - Integração frontend/backend  
